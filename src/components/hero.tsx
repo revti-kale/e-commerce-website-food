@@ -2,7 +2,7 @@ import { BsArrowRight } from "react-icons/bs";
 
 const Hero = () => {
   return (
-    <div className="container pt-">
+    <div className="container pt-8">
       <div className="grid xl:grid-cols-3 xl:grid-rows-2 gap-8">
         <div className="relative xl:col-span-2 xl:row-start-1 xl:row-end-[-1]">
           <img
@@ -53,7 +53,7 @@ const Hero = () => {
             <h2 className="text-2xl sm:text-3xl font-bold">Best Yummy Pizza</h2>
             <p className="text-gray-500 text-xl pt-4">Starting At</p>
             <div className="font-medium text-red-600 text-2xl sm:text-4xl pb-8">
-              $25
+              $20
             </div>
             <div className="bg-green-800 hover:bg-accent text-white rounded-full w-fit flex items-center gap-4 px-4 py-2 text-[14px] cursor-pointer">
               Shop Now <BsArrowRight />
