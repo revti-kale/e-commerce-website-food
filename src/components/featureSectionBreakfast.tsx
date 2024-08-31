@@ -28,7 +28,7 @@ const FeatureSectionBreakfast = () => {
           <div>
             <img
               className="w-full h-full object-cover"
-              src="public/feature__2.webp"
+              src="/feature__2.webp"
               alt="banner"
             />
           </div>
