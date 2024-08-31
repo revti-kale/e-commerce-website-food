@@ -2,6 +2,7 @@ import {BsSearch} from "react-icons/bs"
 import { CiUser } from "react-icons/ci";
 import { CiShoppingCart } from "react-icons/ci";
 import logo from '../logo/cookie.png'
+import CartCountBadge from "./cartCountBadge";
 
 const Nav = () => {
   return (
@@ -19,6 +20,7 @@ const Nav = () => {
             </div>
             <div className="icon__wrapper relative">
             <CiShoppingCart />
+            <CartCountBadge size="w-[25px] h-[25px]"/>
             </div>
         </div>
 
