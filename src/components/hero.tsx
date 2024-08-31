@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="relative xl:col-span-2 xl:row-start-1 xl:row-end-[-1]">
           <img
             className="w-full h-full object-cover rounded-lg"
-            src="public/hero__1.webp"
+            src="/hero__1.webp"
             alt="hero image"
           />
           <div className="absolute max-w-[400px] sm:ml-16 ml-8 top-[50%] -translate-y-[50%] sm:space-y-4">
@@ -28,7 +28,7 @@ const Hero = () => {
         <div className="relative">
           <img
             className="w-full h-full object-cover rounded-lg"
-            src="public/hero__2.webp"
+            src="/hero__2.webp"
             alt="hero image"
           />
           <div className="absolute max-w-[470px] sm:ml-16 ml-8 top-[50%] -translate-y-[50%] sm:space-y-2">
@@ -46,7 +46,7 @@ const Hero = () => {
         <div className="relative">
           <img
             className="w-full h-full object-cover rounded-lg"
-            src="public/hero__3.webp"
+            src="/hero__3.webp"
             alt="hero image"
           />
           <div className="absolute max-w-[470px] sm:ml-16 ml-8 top-[50%] -translate-y-[50%] sm:space-y-2">

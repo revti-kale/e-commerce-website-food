@@ -28,7 +28,7 @@ const FeatureSectionFruit = () => {
           <div>
             <img
               className="w-full h-full object-cover"
-              src="public/feature__1.webp"
+              src="/feature__1.webp"
               alt="banner"
             />
           </div>

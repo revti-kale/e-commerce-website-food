@@ -2,19 +2,19 @@ import BlogCard from "./blogCard";
 
 const data = [
     {
-      img: "public/post__1.webp",
+      img: "/post__1.webp",
       title: "Healthy Food Healthy Life",
       date: "Aug 27, 2023",
       comment: 8,
     },
     {
-      img: "public/post__2.webp",
+      img: "/post__2.webp",
       title: "Healthy Food Healthy Life",
       date: "Aug 25, 2023",
       comment: 1,
     },
     {
-      img: "public/post__3.webp",
+      img: "/post__3.webp",
       title: "Healthy Food Healthy Life",
       date: "Aug 30, 2023",
       comment: 6,
