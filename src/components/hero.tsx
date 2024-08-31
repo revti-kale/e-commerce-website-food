@@ -13,7 +13,7 @@ const Hero = () => {
           <div className="absolute max-w-[400px] sm:ml-16 ml-8 top-[50%] -translate-y-[50%] sm:space-y-4">
             <p className="text-2xl hidden sm:block">100% Original Dry Fruits</p>
             <h2 className="text-2xl sm:text-4xl md:text-6xl font-bold">
-              Dried Fruits Best Quality
+              Dry Fruits at Best Quality
             </h2>
             <p className="text-gray-500 text-xl pt-4 sm:pt-8">Starting At</p>
             <div className="font-medium text-red-600 text-2xl sm:text-4xl sm:pb-8 pb-4">
